@@ -1,0 +1,1 @@
+Para realizar la ejecución del script, el aplicativo de jmeter debe estar en la versión mínima de 5.6.3, adicional debe tener dicho jmeter el plugin jpgc-casutg, para así poder realizar la ejecución de manera exitosa.
